@@ -1,0 +1,1 @@
+# practica_DHT22_LCD
